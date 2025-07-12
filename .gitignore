@@ -1,0 +1,46 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.pot
+*.db
+env/
+venv/
+virtualenv/
+.Python
+pip-log.txt
+pip-selfcheck.json
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+build/
+dist/
+*.egg-info/
+.installed.cfg
+
+# Android
+*.iml
+.idea/
+.gradle/
+.DS_Store
+/build/
+/app/build/
+local.properties
+.gradle
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
