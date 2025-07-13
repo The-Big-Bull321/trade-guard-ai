@@ -1,4 +1,3 @@
-main.py
 from fastapi import FastAPI
 from model import create_lstm_model, preprocess_data
 from data import get_bitcoin_data
